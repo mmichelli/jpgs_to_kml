@@ -1,7 +1,7 @@
 {
   "name": "photos_to_kml",
   "version": "0.0.0",
-  "description": "A folder of images to KML",
+  "description": "Convert a folder of images to KML",
   "main": "index.js",
   "directories": {
     "test": "test"
