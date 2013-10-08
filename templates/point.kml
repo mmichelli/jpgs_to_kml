@@ -1,0 +1,12 @@
+
+      <Placemark>
+        <name>{{objtype}} {{mastenummer}}</name>
+        <description><![CDATA[
+        <img width ="500px" src="{{relativePath filePath}}" />
+        ]]>
+        </description> 
+        <Point>
+          <coordinates>{{GPStoDecimal data.gps.GPSLongitude data.gps.GPSLongitudeRef}},{{GPStoDecimal data.gps.GPSLatitude data.gps.GPSLatitudeRef}}</coordinates>
+        </Point>
+      </Placemark>
+

@@ -1,0 +1,28 @@
+{
+  "name": "photos_to_kml",
+  "version": "0.0.0",
+  "description": "A folder of images to KML",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mmichelli/photos_to_kml.gi"
+  },
+  "keywords": [
+    "kml",
+    "jpg",
+    "exif",
+    "gis",
+    "stream"
+  ],
+  "author": "Mario <mario@edisonmenlo.no> (https://github.com/mmichelli)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/mmichelli/photos_to_kml.gi/issues"
+  }
+}
