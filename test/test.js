@@ -21,4 +21,3 @@ describe('Photos data stream a kml file', function(){
 
     })
 });
- 

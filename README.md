@@ -1,5 +1,5 @@
-SOSI to KML
+Folder of photos to KML
 ===========
 
-A basic folder of photos to .kml converter 
+A folder of photos to .kml converter 
 
